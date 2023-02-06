@@ -1,0 +1,32 @@
+
+body {
+    margin: 0px;;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding:16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+
+#Main-article {
+    margin-right:250px;
+    margin-left:250px
+}
+
+body > footer {
+    color:white;
+    background-color: dodgerblue;
+    padding: 10px; 
+}
+
+body > footer > p {
+    text-align: center;
+    font-size:x-large;
+}
